@@ -9,6 +9,6 @@ Vanilla and Chocolate Pong, a very sweet pong
 
 ## Special Thanks
 
-To me
 
 Hiiiiiiiiiii
+Hello, Hola, Halo, Guten Tag
